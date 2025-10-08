@@ -1,4 +1,11 @@
 ## Hi there 👋
+**My name is Alisher, I'm mathematician (MSc @ Imperial College London) interested in all things math and data, especially stochastics and probability theory!
+- 🌱 I'm currently working on a linear-complexity U-NetTSF forecaster in the crypto market, using work in 	[this paper](https://arxiv.org/html/2401.03001v1?utm_source=chatgpt.com).
+- 👯 My most recent work was a reimplementation of cointegration-driven crypto pairs strategy in [this paper](https://arxiv.org/html/2401.03001v1?utm_source=chatgpt.com)
+- 📫 How to reach me: +77777787277 / mirmanovv.work@gmail.com 
+
+
+
 
 <!--
 **AlisherMirmanov/alishermirmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
